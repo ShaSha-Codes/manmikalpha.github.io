@@ -20,7 +20,9 @@ JavaScript
 **Description**
 
 1.Import all three script files to your local system.
+
 3.Run the HTML file in your browser.
+
 5.Play the Game!
 
 **Conclusion**
